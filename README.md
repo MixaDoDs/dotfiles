@@ -8,7 +8,9 @@
 | Terminal     | Kitty   |
 | File manager   | yazi   |
 | Text Editor | Nvim |
-| Fetch | fastfetch |
+| [Fetch](https://github.com/MixaDoDs/fastfetch-config) | fastfetch |
+
+
 
 # how to install?
 
