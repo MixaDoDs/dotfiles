@@ -27,7 +27,7 @@ Best set-up neovim, working nice with rus keyboard layout! (in need edit, ```cd 
 ____
 Maybe need install PlugInstall, when u done, just enter in "init.vim", just type `:PlugInstall` and wait!
 
-# How i use this on another distro? 
+# Can i use this on another distro? 
 
 yep, any arch distro support this dotfiles, btw, this files, working with this dotfiles some good (https://github.com/end-4/dots-hyprland)
 
