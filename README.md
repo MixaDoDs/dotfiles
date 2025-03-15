@@ -10,22 +10,26 @@
 | Text Editor | Nvim |
 | [Fetch](https://github.com/MixaDoDs/fastfetch-config) | fastfetch |
 
-
+**TIP**  
+> If what not happend: 
+> *Just come here later :)*
 
 # how to install?
 
 Download Arch (https://archlinux.org/download/)
-_______
-Install HYDE (https://github.com/HyDE-Project/HyDE) "script install inside"
-_______
-Copy this files to .configs
 
+Install HYDE (https://github.com/HyDE-Project/HyDE) "script install inside"
+
+Copy this files to .configs
+______
 # What u have?
 Intresting Cursor, add with this repo (https://github.com/VirtCode/hypr-dynamic-cursors)
-____
+
 Best set-up neovim, working nice with rus keyboard layout! (in need edit, ```cd .config/nvim/init.vim``` ))
-____
+
 Maybe need install PlugInstall, when u done, just enter in "init.vim", just type `:PlugInstall` and wait!
+
+_____
 
 # Can i use this on another distro? 
 
