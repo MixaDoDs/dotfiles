@@ -1,2 +1,6 @@
 [opener]
 text = [{ run = 'nvim "$@"', block = true }]
+
+[[manager.prepend_keymap]]
+on  = "y"
+run = [ 'shell -- echo "$@" | xclip -i -selection clipboard -t text/uri-list', "yank" ]
