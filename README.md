@@ -29,7 +29,25 @@ Best set-up neovim, working nice with rus keyboard layout! (in need edit, ```cd 
 
 Maybe need install PlugInstall, when u done, just enter in "init.vim", just type `:PlugInstall` and wait!
 
-_____
+
+# SuperNEED
+
+## Soo, it's unlock all power ur pc, for labtop this not recommended 
+
+For PC install `linux-zen` packages, `linux-zen-headers` 
+```
+ sudo pacman -Suy linux-zen linux-zen-headers
+```
+
+In userprefs.conf need add
+
+```
+env = LIBVA_DRIVER_NAME,nvidia
+env = GBM_BACKEND,nvidia-drm
+env = __GLX_VENDOR_LIBRARY_NAME,nvidia
+env = WLR_NO_HARDWARE_CURSORS,1
+env = WLR_RENDERER,opengl
+```
 
 # Can i use this on another distro? 
 
