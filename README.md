@@ -27,10 +27,10 @@ Intresting Cursor, add with this [repo](https://github.com/VirtCode/hypr-dynamic
 
 | Dependencies   | Apps |
 | ----------- | ----------- |
-| Terminal     | foot   |
-| File manager   | yazi   |
-| Text Editor | Nvim |
-| Fetch| fastfetch |
+| Terminal     | foot, kitty, ghostty   |
+| File manager   | yazi, nautilus   |
+| Text Editor | Nvim 🎔|
+| Fetch| fastfetch, catnap |
 
 ### Dependencies what need to install
 ```
