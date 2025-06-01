@@ -1,0 +1,28 @@
+{
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "restore_on_startup": "last_workspace",
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Ayu Dark"
+  },
+  "terminal": {
+    "toolbar": {
+      "breadcrumbs": false,
+      "shell": "system",
+      "dock": "bottom"
+    }
+  },
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false
+  },
+  "features": {
+    "edit_prediction_provider": "none"
+  },
+  "assistant": {
+    "enabled": false,
+    "version": "2"
+  }
+}

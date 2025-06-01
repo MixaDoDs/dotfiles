@@ -1,0 +1,20 @@
+# A list of apps categorized by their source platform
+
+F-Droid.repos = [
+ "www.cromite.org/fdroid/repo",
+ "microg.org/fdroid/repo",
+]
+
+F-Droid = [
+ "org.microg.gms",
+ "org.cromite.cromite",
+ "me.zhanghai.android.files",
+]
+
+Obtanium = [
+ "",
+]
+
+Play_Store = [
+ "",
+]
