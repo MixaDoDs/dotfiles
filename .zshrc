@@ -26,3 +26,4 @@ export XCURSOR_SIZE=24
 
 export PATH=$PATH:/home/mixad/.spicetify
 export QT_QPA_PLATFORMTHEME=qt5ct
+export QT_QPA_PLATFORMTHEME=qt6ct
